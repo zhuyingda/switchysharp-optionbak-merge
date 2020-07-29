@@ -1,0 +1,29 @@
+{
+  "name": "switchysharp-optionbak-merge",
+  "version": "0.0.2",
+  "description": "cli tool for switchSharp option backup file merging.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "switchy-merge": "./bin/switchy-merge"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuyingda/switchysharp-optionbak-merge.git"
+  },
+  "keywords": [
+    "cli",
+    "switchysharp"
+  ],
+  "author": "5u9ar",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/zhuyingda/switchysharp-optionbak-merge/issues"
+  },
+  "homepage": "https://github.com/zhuyingda/switchysharp-optionbak-merge#readme",
+  "dependencies": {
+    "commander": "^6.0.0"
+  }
+}
