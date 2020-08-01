@@ -4,7 +4,7 @@
   "description": "cli tool for switchSharp option backup file merging.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/mocha/bin/mocha test/merge.test.js"
   },
   "bin": {
     "switchy-merge": "./bin/switchy-merge"
@@ -25,5 +25,8 @@
   "homepage": "https://github.com/zhuyingda/switchysharp-optionbak-merge#readme",
   "dependencies": {
     "commander": "^6.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^8.1.0"
   }
 }
