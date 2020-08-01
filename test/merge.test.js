@@ -1,7 +1,5 @@
-const { mergeBakFile, outputFile, mergeOption } = require('../lib/core');
+const { mergeOption } = require('../lib/core');
 const assert = require('assert');
-
-// mergeBakFile('/Users/zhuyingda/Downloads/SwitchyOptions-.bak', '/Users/zhuyingda/SwitchyOptions-20200729.bak');
 
 describe('switchy-merge test case', function() {
     describe('case 1', function () {
