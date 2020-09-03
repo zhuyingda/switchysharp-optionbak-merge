@@ -3,7 +3,7 @@ cli tool for switchSharp option backup file merging.
 
 ## Usage
 
-```
+```bash
 switchy-merge -i ./SwitchyOptions-20200826.bak ./SwitchyOptions-20200824.bak ./SwitchyOptions-20200902.bak -o ./now.bak
 ```
 
