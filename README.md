@@ -4,7 +4,7 @@ cli tool for switchSharp option backup file merging.
 ## Usage
 
 ```
-switchy-merge -i ./SwitchyOptions-self-mac-20200826.bak./SwitchyOptions-comp-mac-20200824.bak ./SwitchyOptions-comp-mac-20200902.bak -o ./now.bak
+switchy-merge -i ./SwitchyOptions-20200826.bak./SwitchyOptions-20200824.bak ./SwitchyOptions-20200902.bak -o ./now.bak
 ```
 
 ## License
