@@ -1,6 +1,6 @@
 {
   "name": "switchysharp-optionbak-merge",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "cli tool for switchSharp option backup file merging.",
   "main": "index.js",
   "scripts": {
